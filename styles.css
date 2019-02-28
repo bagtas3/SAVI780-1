@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.catSound {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+  
+h1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
